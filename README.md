@@ -7,8 +7,8 @@ The sample Dataset summarizes the usage behavior of thousands of active credit c
 
 
 # Dataset
-Link to Dataset [Link to Dataset
-](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/main/Customer%20Data.csv)https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/main/Customer%20Data.csv
+Link to Dataset [
+(https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/main/Customer%20Data.csv)https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/main/Customer%20Data.csv ]
 
 # Tools Used
 #libraries 
