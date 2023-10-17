@@ -19,9 +19,12 @@ Pandas
 SKlearn
 Pickle
 
+# Deployment of Final Model
+Creating a Streamlit Application based on our K-Means Clustering algorithm. By using customer details & identifying which cluster the customer belongs to.
+
 
 # Test completed
-KMeans Clustering
+K-Means Clustering
 Decision Tree
 
 
