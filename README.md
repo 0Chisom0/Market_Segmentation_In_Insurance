@@ -1,6 +1,8 @@
 # DEMO
 /////
-![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/94f28558-087d-4f75-843a-dcb1e0cf6fd2)
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/4ea4ff6f-8e4b-4e76-a71d-b78d6cf686d3) ![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/4e9de306-9028-4897-bed2-76953b7994cd)
+
+
 
 
 # Market_Segmentation_In_Insurance
@@ -33,7 +35,8 @@ Creating a Streamlit Application based on our K-Means Clustering algorithm. By u
   pip install streamlit
 ```
 ```bash
-  #
+  #Access folder for app.py in the command prompt
+  
   
 ```
 ```bash
