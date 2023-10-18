@@ -14,7 +14,7 @@ The sample Dataset summarizes the usage behavior of thousands of active credit c
 
 
 # Dataset
-Customer Data.csv
+https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/6ba024a65989d1f9e07f45053aa116fe7d8d0f7c/Customer%20Data.csv
 
 # Tools Used
 #modules used 
