@@ -1,5 +1,6 @@
 # DEMO
 /////
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/94f28558-087d-4f75-843a-dcb1e0cf6fd2)
 
 
 # Market_Segmentation_In_Insurance
