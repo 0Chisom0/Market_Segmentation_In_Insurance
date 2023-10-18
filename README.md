@@ -16,7 +16,7 @@ Link to Dataset [Link to Dataset
 (https://github.com/0Chisom0/Market_Segmentation_In_Insurance/blob/main/Customer%20Data.csv)]
 
 # Tools Used
-#libraries 
+#modules used 
 Numpy
 Matplotlib
 Seaborn
@@ -25,12 +25,16 @@ SKlearn
 Pickle
 
 # Deployment of Final Model
-Creating a Streamlit Application based on our K-Means Clustering algorithm. By using customer details & identifying which cluster the customer belongs to.
+Creating a Streamlit Application based on our K-Means Clustering algorithm. By using customer details & identifying which cluster the customer belongs to. To deploy this project run in the command prompt of Visual Studio where all your files are.
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/907d6949-92c1-4162-b0e2-38dcf8b81ade)
+
+
 ```bash
   pip install streamlit
 ```
 ```bash
-    #
+  #
+  
 ```
 ```bash
     
