@@ -1,6 +1,7 @@
 # DEMO
 ![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/4ea4ff6f-8e4b-4e76-a71d-b78d6cf686d3) 
-![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/4e9de306-9028-4897-bed2-76953b7994cd)
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/2e0deece-d0ab-439e-a325-767cb75fc9fd)
+
 
 
 
