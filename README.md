@@ -26,7 +26,15 @@ Pickle
 
 # Deployment of Final Model
 Creating a Streamlit Application based on our K-Means Clustering algorithm. By using customer details & identifying which cluster the customer belongs to.
-
+```bash
+  pip install streamlit
+```
+```bash
+    #
+```
+```bash
+    
+```
 
 # Test completed
 K-Means Clustering
