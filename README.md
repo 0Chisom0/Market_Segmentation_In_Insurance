@@ -36,6 +36,8 @@ Creating a Streamlit Application based on our K-Means Clustering algorithm. By u
 ```
 ```bash
   #Access folder for app.py in the command prompt
+  ![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/5d685c68-21b3-4963-a031-d77ee0bd3fc9)
+  cd Streamlit
   
   
 ```
