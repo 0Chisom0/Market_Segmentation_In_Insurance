@@ -35,15 +35,44 @@ Creating a Streamlit Application based on our K-Means Clustering algorithm. By u
   pip install streamlit
 ```
 ```bash
-  #Access folder for app.py in the command prompt
-  ![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/5d685c68-21b3-4963-a031-d77ee0bd3fc9)
+  #Access the Streamlit folder for the app.py file by using command prompt instructions
   cd Streamlit
-  
-  
 ```
+
+  ![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/5d685c68-21b3-4963-a031-d77ee0bd3fc9)
+  
 ```bash
-    
+    #install virtual environment
+    pip install pipenv
 ```
+
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/ca355a45-3084-49bc-a9de-94394dd3551a)
+
+
+```bash
+    #create virutal environment to run streamlit application
+    pipenv shell
+```
+
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/381c6e71-e044-4d4a-b460-59de8fba7a9b) 
+
+```bash
+    #Add modules that are being referenced in the app.py file
+    pipenv install streamlit scikit-learn pandas plotly matplotlib seaborn pickle
+```
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/cfc5f1eb-100b-4c02-b76c-7c0e682e4b94)
+
+
+```bash
+    #Launch streamlit application on your local server
+      pipenv run streamlit run app.py     
+```
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/1075debe-effa-4d01-a65a-3c107f38e7a8)
+
+```bash
+    #Final Product Below
+```
+![image](https://github.com/0Chisom0/Market_Segmentation_In_Insurance/assets/122185866/2e0deece-d0ab-439e-a325-767cb75fc9fd) 
 
 # Test completed
 K-Means Clustering
